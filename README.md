@@ -12,3 +12,6 @@ After preparing necessary dataset, you could train Yolov4 model:
 - SPP Neck,
 - Training loop with YOLOv3 loss.
 Also the whole Yolov4 architecture can be found in Schema scaled yolov4.xls
+
+## 4. Reference
+https://github.com/ethanyanjiali/deep-vision 
