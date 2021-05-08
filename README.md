@@ -1,6 +1,9 @@
 # Scaled YoloV4-tensorflow-2.0
 
 ## 1. Data
+I used VOC 2007 Dataset for training the yolov4 model. The dataset can be downloaded:
+http://host.robots.ox.ac.uk/pascal/VOC/voc2007/ 
+
 The model uses TF records as data source for training, so at first you need to generate TF records. Script tfrecords.py can be used to generate such data.
 
 ## 2. Training
